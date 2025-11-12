@@ -1,0 +1,8 @@
+moj_sajt/
+├── index.html
+├── style.css
+├── images/
+│   ├── moja_slika.jpg   (ubaci svoju sliku ovde)
+│   └── grb.png         (ubaci svoj grb ovde)
+├── docs/
+│   └── uputstvo_excel.docx  (ubaci svoj Word dokument ovde)
