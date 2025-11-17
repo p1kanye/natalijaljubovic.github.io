@@ -1,0 +1,74 @@
+/* Celokupan stil stranice */
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    background-color: #fff7fc;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Kontejner da centrira sadržaj */
+.container {
+    width: 80%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Naslov */
+h1, h2 {
+    color: #c2417a;
+    font-weight: 600;
+    text-align: center;
+}
+
+/* Podnaslovi */
+h3 {
+    color: #e05e99;
+    margin-top: 30px;
+}
+
+/* Slike – zaobljene, senka, centrirane */
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 250px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+/* Liste */
+ul {
+    padding-left: 25px;
+    font-size: 1.05rem;
+}
+
+/* Linkovi */
+a {
+    color: #d63f86;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Sekcije */
+.section {
+    background: #ffe4ef;
+    padding: 25px;
+    margin: 25px 0;
+    border-radius: 15px;
+    box-shadow: 0 6px 14px rgba(0,0,0,0.1);
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    color: #666;
+    font-size: 0.9rem;
+    padding-bottom: 20px;
+}
